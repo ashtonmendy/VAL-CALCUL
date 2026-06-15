@@ -1,0 +1,15 @@
+{
+  "name": "VAL Roulette",
+  "short_name": "VAL",
+  "display": "standalone",
+  "start_url": "./",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
